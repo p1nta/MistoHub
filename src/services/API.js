@@ -1,5 +1,7 @@
 import axios from 'axios';
 
+import { mockedCompanies, mockedPersons } from './mocked_response';
+
 function formImgURL(img) {
   if (!img?.asset?._ref) {
     return null
@@ -50,6 +52,7 @@ export async function fetchGoal() {
 }
 export async function fetchCompanies() {
   try {
+    return Promise.resolve(mockedCompanies);
     const {
       data: { result },
     } = await axios.get(
@@ -81,6 +84,7 @@ export async function fetchCompanies() {
   }
 }
 export async function fetchPeople() {
+  return Promise.resolve(mockedPersons);
   try {
     const {
       data: { result },
