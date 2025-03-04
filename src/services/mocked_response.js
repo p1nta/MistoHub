@@ -5,7 +5,7 @@ export const mockedCompanies = [
     "_id": "2c305bd9-9f4f-49e8-aa83-23f9c10d4d9b",
     "id": 2,
     "name": "Simply because it is pain...",
-    "logoURL": "/src/assets/JoinUs/images/webp/cafe-oval@2x.webp",
+    "logoURL": "https://picsum.photos/201/301",
     "link": " http://ugtc.com.ua"
   },
   {
@@ -14,7 +14,7 @@ export const mockedCompanies = [
     "_id": "2c305bd9-9f4f-49e8-aa83-23f9c10d4d9b",
     "id": 2,
     "name": "Where can I get some?",
-    "logoURL": "/src/assets/JoinUs/images/jpg/cafe.jpg",
+    "logoURL": "https://picsum.photos/306/603",
     "link": " http://ugtc.com.ua"
   },
   {
@@ -23,7 +23,7 @@ export const mockedCompanies = [
     "_id": "2c305bd9-9f4f-49e8-aa83-23f9c10d4d9b",
     "id": 2,
     "name": "Simply because it is pain...",
-    "logoURL": "/src/assets/JoinUs/images/webp/cafe-oval@2x.webp",
+    "logoURL": "https://picsum.photos/201/301",
     "link": " http://ugtc.com.ua"
   },
   {
@@ -32,7 +32,7 @@ export const mockedCompanies = [
     "_id": "2c305bd9-9f4f-49e8-aa83-23f9c10d4d9b",
     "id": 2,
     "name": "Where can I get some?",
-    "logoURL": "/src/assets/JoinUs/images/jpg/cafe.jpg",
+    "logoURL": "https://picsum.photos/301/201",
     "link": " http://ugtc.com.ua"
   },
   {
@@ -41,7 +41,7 @@ export const mockedCompanies = [
     "_id": "2c305bd9-9f4f-49e8-aa83-23f9c10d4d9b",
     "id": 2,
     "name": "Simply because it is pain...",
-    "logoURL": "/src/assets/JoinUs/images/webp/cafe-oval@2x.webp",
+    "logoURL": "https://picsum.photos/201/301",
     "link": " http://ugtc.com.ua"
   },
   {
@@ -50,7 +50,7 @@ export const mockedCompanies = [
     "_id": "2c305bd9-9f4f-49e8-aa83-23f9c10d4d9b",
     "id": 2,
     "name": "Where can I get some?",
-    "logoURL": "/src/assets/JoinUs/images/jpg/cafe.jpg",
+    "logoURL": "https://picsum.photos/306/603",
     "link": " http://ugtc.com.ua"
   },
   {
@@ -59,7 +59,7 @@ export const mockedCompanies = [
     "_id": "2c305bd9-9f4f-49e8-aa83-23f9c10d4d9b",
     "id": 2,
     "name": "Simply because it is pain...",
-    "logoURL": "/src/assets/JoinUs/images/webp/cafe-oval@2x.webp",
+    "logoURL": "https://picsum.photos/201/301",
     "link": " http://ugtc.com.ua"
   },
   {
@@ -68,7 +68,7 @@ export const mockedCompanies = [
     "_id": "2c305bd9-9f4f-49e8-aa83-23f9c10d4d9b",
     "id": 2,
     "name": "Where can I get some?",
-    "logoURL": "/src/assets/JoinUs/images/jpg/cafe.jpg",
+    "logoURL": "https://picsum.photos/306/603",
     "link": " http://ugtc.com.ua"
   },
   {
@@ -77,7 +77,7 @@ export const mockedCompanies = [
     "_id": "2c305bd9-9f4f-49e8-aa83-23f9c10d4d9b",
     "id": 2,
     "name": "Simply because it is pain...",
-    "logoURL": "/src/assets/JoinUs/images/webp/cafe-oval@2x.webp",
+    "logoURL": "https://picsum.photos/201/301",
     "link": " http://ugtc.com.ua"
   },
   {
@@ -86,7 +86,7 @@ export const mockedCompanies = [
     "_id": "2c305bd9-9f4f-49e8-aa83-23f9c10d4d9b",
     "id": 2,
     "name": "Where can I get some?",
-    "logoURL": "/src/assets/JoinUs/images/jpg/cafe.jpg",
+    "logoURL": "https://picsum.photos/306/603",
     "link": " http://ugtc.com.ua"
   },
   {
@@ -95,7 +95,7 @@ export const mockedCompanies = [
     "_id": "2c305bd9-9f4f-49e8-aa83-23f9c10d4d9b",
     "id": 2,
     "name": "Simply because it is pain...",
-    "logoURL": "/src/assets/JoinUs/images/webp/cafe-oval@2x.webp",
+    "logoURL": "https://picsum.photos/201/301",
     "link": " http://ugtc.com.ua"
   },
   {
@@ -104,7 +104,7 @@ export const mockedCompanies = [
     "_id": "2c305bd9-9f4f-49e8-aa83-23f9c10d4d9b",
     "id": 2,
     "name": "Where can I get some?",
-    "logoURL": "/src/assets/JoinUs/images/jpg/cafe.jpg",
+    "logoURL": "https://picsum.photos/306/603",
     "link": " http://ugtc.com.ua"
   },
   {
@@ -113,7 +113,7 @@ export const mockedCompanies = [
     "_id": "2c305bd9-9f4f-49e8-aa83-23f9c10d4d9b",
     "id": 2,
     "name": "Simply because it is pain...",
-    "logoURL": "/src/assets/JoinUs/images/webp/cafe-oval@2x.webp",
+    "logoURL": "https://picsum.photos/201/301",
     "link": " http://ugtc.com.ua"
   },
   {
@@ -122,7 +122,7 @@ export const mockedCompanies = [
     "_id": "2c305bd9-9f4f-49e8-aa83-23f9c10d4d9b",
     "id": 2,
     "name": "Where can I get some?",
-    "logoURL": "/src/assets/JoinUs/images/jpg/cafe.jpg",
+    "logoURL": "https://picsum.photos/306/603",
     "link": " http://ugtc.com.ua"
   },
   {
@@ -131,7 +131,7 @@ export const mockedCompanies = [
     "_id": "2c305bd9-9f4f-49e8-aa83-23f9c10d4d9b",
     "id": 2,
     "name": "Simply because it is pain...",
-    "logoURL": "/src/assets/JoinUs/images/webp/cafe-oval@2x.webp",
+    "logoURL": "https://picsum.photos/201/301",
     "link": " http://ugtc.com.ua"
   },
   {
@@ -140,7 +140,7 @@ export const mockedCompanies = [
     "_id": "2c305bd9-9f4f-49e8-aa83-23f9c10d4d9b",
     "id": 2,
     "name": "Where can I get some?",
-    "logoURL": "/src/assets/JoinUs/images/jpg/cafe.jpg",
+    "logoURL": "https://picsum.photos/306/603",
     "link": " http://ugtc.com.ua"
   },
   {
@@ -149,7 +149,7 @@ export const mockedCompanies = [
     "_id": "2c305bd9-9f4f-49e8-aa83-23f9c10d4d9b",
     "id": 2,
     "name": "Simply because it is pain...",
-    "logoURL": "/src/assets/JoinUs/images/webp/cafe-oval@2x.webp",
+    "logoURL": "https://picsum.photos/201/301",
     "link": " http://ugtc.com.ua"
   },
   {
@@ -158,7 +158,7 @@ export const mockedCompanies = [
     "_id": "2c305bd9-9f4f-49e8-aa83-23f9c10d4d9b",
     "id": 2,
     "name": "Where can I get some?",
-    "logoURL": "/src/assets/JoinUs/images/jpg/cafe.jpg",
+    "logoURL": "https://picsum.photos/306/603",
     "link": " http://ugtc.com.ua"
   },
   {
@@ -167,7 +167,7 @@ export const mockedCompanies = [
     "_id": "2c305bd9-9f4f-49e8-aa83-23f9c10d4d9b",
     "id": 2,
     "name": "Simply because it is pain...",
-    "logoURL": "/src/assets/JoinUs/images/webp/cafe-oval@2x.webp",
+    "logoURL": "https://picsum.photos/201/301",
     "link": " http://ugtc.com.ua"
   },
   {
@@ -176,7 +176,7 @@ export const mockedCompanies = [
     "_id": "2c305bd9-9f4f-49e8-aa83-23f9c10d4d9b",
     "id": 2,
     "name": "Where can I get some?",
-    "logoURL": "/src/assets/JoinUs/images/jpg/cafe.jpg",
+    "logoURL": "https://picsum.photos/306/603",
     "link": " http://ugtc.com.ua"
   },
   {
@@ -185,7 +185,7 @@ export const mockedCompanies = [
     "_id": "2c305bd9-9f4f-49e8-aa83-23f9c10d4d9b",
     "id": 2,
     "name": "Simply because it is pain...",
-    "logoURL": "/src/assets/JoinUs/images/webp/cafe-oval@2x.webp",
+    "logoURL": "https://picsum.photos/201/301",
     "link": " http://ugtc.com.ua"
   },
   {
@@ -194,7 +194,7 @@ export const mockedCompanies = [
     "_id": "2c305bd9-9f4f-49e8-aa83-23f9c10d4d9b",
     "id": 2,
     "name": "Where can I get some?",
-    "logoURL": "/src/assets/JoinUs/images/jpg/cafe.jpg",
+    "logoURL": "https://picsum.photos/306/603",
     "link": " http://ugtc.com.ua"
   },
 ];
@@ -208,7 +208,7 @@ export const mockedPersons = [
     "firstName": "Lorem",
     "secondName": "Ipsum ",
     "type": "ІТ-підприємець",
-    "imageURL": "/src/assets/JoinUs/images//webp/person-circle@2x.webp",
+    "imageURL": "https://picsum.photos/200/300",
     "facebook": null,
     "instagram": "https://www.instagram.com/",
     "question": "Чому я з МІСТОХАБ? "
@@ -221,7 +221,7 @@ export const mockedPersons = [
     "firstName": "Neque porro quisquam",
     "secondName": "est qui dolorem ipsum",
     "type": `It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`,
-    "imageURL": "/src/assets/AccumulatedMoney/back-for-mobile.png",
+    "imageURL": "https://picsum.photos/300/200",
     "facebook": "https://www.facebook.com/",
     "instagram": "",
     "question": "Чому я з МІСТОХАБ? "
@@ -234,7 +234,7 @@ export const mockedPersons = [
     "firstName": "Lorem",
     "secondName": "Ipsum ",
     "type": "ІТ-підприємець",
-    "imageURL": "/src/assets/JoinUs/images//webp/person-circle@2x.webp",
+    "imageURL": "https://picsum.photos/200/300",
     "facebook": null,
     "instagram": "https://www.instagram.com/",
     "question": "Чому я з МІСТОХАБ? "
@@ -247,7 +247,7 @@ export const mockedPersons = [
     "firstName": "Neque porro quisquam",
     "secondName": "est qui dolorem ipsum",
     "type": `It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`,
-    "imageURL": "/src/assets/AccumulatedMoney/back-for-mobile.png",
+    "imageURL": "https://picsum.photos/300/200",
     "facebook": "https://www.facebook.com/",
     "instagram": "",
     "question": "Чому я з МІСТОХАБ? "
@@ -260,7 +260,7 @@ export const mockedPersons = [
     "firstName": "Lorem",
     "secondName": "Ipsum ",
     "type": "ІТ-підприємець",
-    "imageURL": "/src/assets/JoinUs/images//webp/person-circle@2x.webp",
+    "imageURL": "https://picsum.photos/200/300",
     "facebook": null,
     "instagram": "https://www.instagram.com/",
     "question": "Чому я з МІСТОХАБ? "
@@ -273,7 +273,7 @@ export const mockedPersons = [
     "firstName": "Neque porro quisquam",
     "secondName": "est qui dolorem ipsum",
     "type": `It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`,
-    "imageURL": "/src/assets/AccumulatedMoney/back-for-mobile.png",
+    "imageURL": "https://picsum.photos/300/200",
     "facebook": "https://www.facebook.com/",
     "instagram": "",
     "question": "Чому я з МІСТОХАБ? "
@@ -286,7 +286,7 @@ export const mockedPersons = [
     "firstName": "Lorem",
     "secondName": "Ipsum ",
     "type": "ІТ-підприємець",
-    "imageURL": "/src/assets/JoinUs/images//webp/person-circle@2x.webp",
+    "imageURL": "https://picsum.photos/200/300",
     "facebook": null,
     "instagram": "https://www.instagram.com/",
     "question": "Чому я з МІСТОХАБ? "
@@ -299,7 +299,7 @@ export const mockedPersons = [
     "firstName": "Neque porro quisquam",
     "secondName": "est qui dolorem ipsum",
     "type": `It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`,
-    "imageURL": "/src/assets/AccumulatedMoney/back-for-mobile.png",
+    "imageURL": "https://picsum.photos/300/200",
     "facebook": "https://www.facebook.com/",
     "instagram": "",
     "question": "Чому я з МІСТОХАБ? "
@@ -312,7 +312,7 @@ export const mockedPersons = [
     "firstName": "Lorem",
     "secondName": "Ipsum ",
     "type": "ІТ-підприємець",
-    "imageURL": "/src/assets/JoinUs/images//webp/person-circle@2x.webp",
+    "imageURL": "https://picsum.photos/200/300",
     "facebook": null,
     "instagram": "https://www.instagram.com/",
     "question": "Чому я з МІСТОХАБ? "
@@ -325,7 +325,7 @@ export const mockedPersons = [
     "firstName": "Neque porro quisquam",
     "secondName": "est qui dolorem ipsum",
     "type": `It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`,
-    "imageURL": "/src/assets/AccumulatedMoney/back-for-mobile.png",
+    "imageURL": "https://picsum.photos/300/200",
     "facebook": "https://www.facebook.com/",
     "instagram": "",
     "question": "Чому я з МІСТОХАБ? "
@@ -338,7 +338,7 @@ export const mockedPersons = [
     "firstName": "Lorem",
     "secondName": "Ipsum ",
     "type": "ІТ-підприємець",
-    "imageURL": "/src/assets/JoinUs/images//webp/person-circle@2x.webp",
+    "imageURL": "https://picsum.photos/200/300",
     "facebook": null,
     "instagram": "https://www.instagram.com/",
     "question": "Чому я з МІСТОХАБ? "
@@ -351,7 +351,7 @@ export const mockedPersons = [
     "firstName": "Neque porro quisquam",
     "secondName": "est qui dolorem ipsum",
     "type": `It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`,
-    "imageURL": "/src/assets/AccumulatedMoney/back-for-mobile.png",
+    "imageURL": "https://picsum.photos/300/200",
     "facebook": "https://www.facebook.com/",
     "instagram": "",
     "question": "Чому я з МІСТОХАБ? "
@@ -364,7 +364,7 @@ export const mockedPersons = [
     "firstName": "Lorem",
     "secondName": "Ipsum ",
     "type": "ІТ-підприємець",
-    "imageURL": "/src/assets/JoinUs/images//webp/person-circle@2x.webp",
+    "imageURL": "https://picsum.photos/200/300",
     "facebook": null,
     "instagram": "https://www.instagram.com/",
     "question": "Чому я з МІСТОХАБ? "
@@ -377,7 +377,7 @@ export const mockedPersons = [
     "firstName": "Neque porro quisquam",
     "secondName": "est qui dolorem ipsum",
     "type": `It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`,
-    "imageURL": "/src/assets/AccumulatedMoney/back-for-mobile.png",
+    "imageURL": "https://picsum.photos/300/200",
     "facebook": "https://www.facebook.com/",
     "instagram": "",
     "question": "Чому я з МІСТОХАБ? "
@@ -390,7 +390,7 @@ export const mockedPersons = [
     "firstName": "Lorem",
     "secondName": "Ipsum ",
     "type": "ІТ-підприємець",
-    "imageURL": "/src/assets/JoinUs/images//webp/person-circle@2x.webp",
+    "imageURL": "https://picsum.photos/200/300",
     "facebook": null,
     "instagram": "https://www.instagram.com/",
     "question": "Чому я з МІСТОХАБ? "
@@ -403,7 +403,7 @@ export const mockedPersons = [
     "firstName": "Neque porro quisquam",
     "secondName": "est qui dolorem ipsum",
     "type": `It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`,
-    "imageURL": "/src/assets/AccumulatedMoney/back-for-mobile.png",
+    "imageURL": "https://picsum.photos/300/200",
     "facebook": "https://www.facebook.com/",
     "instagram": "",
     "question": "Чому я з МІСТОХАБ? "
@@ -416,7 +416,7 @@ export const mockedPersons = [
     "firstName": "Lorem",
     "secondName": "Ipsum ",
     "type": "ІТ-підприємець",
-    "imageURL": "/src/assets/JoinUs/images//webp/person-circle@2x.webp",
+    "imageURL": "https://picsum.photos/200/300",
     "facebook": null,
     "instagram": "https://www.instagram.com/",
     "question": "Чому я з МІСТОХАБ? "
@@ -429,7 +429,7 @@ export const mockedPersons = [
     "firstName": "Neque porro quisquam",
     "secondName": "est qui dolorem ipsum",
     "type": `It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`,
-    "imageURL": "/src/assets/AccumulatedMoney/back-for-mobile.png",
+    "imageURL": "https://picsum.photos/300/200",
     "facebook": "https://www.facebook.com/",
     "instagram": "",
     "question": "Чому я з МІСТОХАБ? "
